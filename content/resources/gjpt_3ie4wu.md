@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/6-042j-mathematics-for-computer-science-fall-2010/27c002738e434bc0471ca8ae29d78f9c_GJpt_3ie4WU.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 27c00273-8e43-4bc0-471c-a8ae29d78f9c
+---
